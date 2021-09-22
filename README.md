@@ -1,2 +1,4 @@
 # Kubernetes
-Analysis &amp; best practices
+This repo is intended to share kubernetes related analysis and best practices.
+Happy Reading!,
+Cheers
